@@ -6,6 +6,7 @@ A set of drills and coding challenges I worked on as a student of the Tech Acade
 ### Courses
 * [C#](./C-Sharp)
 * [Python](./Python)
+* [Database & SQL](./Database-SQL)
 * [HTML/CSS & JavaScript](./HTML-CSS-JavaScript)
 * [MTA Certification](./Windows-Service-Application)
 
