@@ -8,7 +8,7 @@ A set of drills and coding challenges I worked on as a student of the Tech Acade
 * [Python](./Python)
 * [Database & SQL](./Database-SQL)
 * [HTML/CSS & JavaScript](./HTML-CSS-JavaScript)
-* [MTA Certification](./Windows-Service-Application)
+* [MTA Certification](./MTA-Certification)
 
 
 ### Other Courses Taken at The Tech Academy
